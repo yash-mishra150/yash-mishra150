@@ -14,7 +14,6 @@ githubUsername: 'yash-mishra150'
 -  **Learning :** Full-Stack Development :zap: 
 -  **Languages :** Python, C, JavaScript, C++, 
 -  **Hobbies :** Read & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
 
 <br/>
 <a href="https://www.linkedin.com/in/yash-mishra-87b29725b/">
