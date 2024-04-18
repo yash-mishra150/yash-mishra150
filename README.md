@@ -30,5 +30,5 @@ githubUsername: 'yash-mishra150'
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Yash Mishra Github Stats](https://github-readme-stats.vercel.app/api?username=yash-mishra150&show_icons=true&title_color=472600&icon_color=1a1110&text_color=002147)
+![Yash Mishra Github Stats](https://github-readme-stats.vercel.app/api?username=yash-mishra150&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)
 
