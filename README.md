@@ -7,7 +7,7 @@
 ### About
 
 -  **Hobbies :** Read & Music :headphones:
--  👨‍💻 My projects are also available at [My Portfolio](https://yashportfolio12.vercel.app/)
+-  👨‍💻 My projects are also available at [My Portfolio](https://portfolio-yashmishra.vercel.app/)
 - 📫 How to reach me **yashm4720@gmail.com**
 
 
