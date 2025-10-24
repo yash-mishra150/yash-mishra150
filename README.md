@@ -55,10 +55,6 @@
 ![Make.com](https://img.shields.io/badge/make.com-%23000000.svg?style=for-the-badge&logo=make&logoColor=white)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yash-mishra150&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/yash-mishra150/yash-mishra150">
