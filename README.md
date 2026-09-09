@@ -54,15 +54,20 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Make.com](https://img.shields.io/badge/make.com-%23000000.svg?style=for-the-badge&logo=make&logoColor=white)
 
+## 📈 GitHub Stats
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/yash-mishra150/yash-mishra150">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-mishra150&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/yash-mishra150">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api?username=yash-mishra150&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    alt="Yash's GitHub Stats"
+  />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-mishra150&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+
+<a href="https://github.com/yash-mishra150">
+  <img
+    height="180"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=yash-mishra150&hide=java,html,tex&langs_count=3&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    alt="Yash's Top Languages"
+  />
 </a>
-
-
-
